@@ -9,14 +9,14 @@
     lenses.
 
 ## 🚀output
-  ##❓question for ceo
+  ## ❓question for ceo
 
       1. Which region is generating the highest revenue, and which region is generating the lowest?
       2. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
       3. Which months generated the most revenue? Is there a seasonality in sales?
       4. Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified
 
- ##❓question for cmo
+ ## ❓question for cmo
 
       1. What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
       2. For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
