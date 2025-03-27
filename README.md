@@ -1,9 +1,11 @@
 # 👨‍💻Data-Visualization-TATA
 
 ## 🎯Task 1
-    A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the current business performance and suggest metrics that would enable them to   
+    A meeting with the CEO and CMO has been scheduled for next month and you need to draft the relevant analytics and insights that would help evaluate the 
+    current business performance and suggest metrics that would enable them to   
     make the decision on expansion.
-    Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different 
+    Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions,
+    as both the CEO and CMO view business decisions through different 
     lenses.
 
 ## 🚀output
