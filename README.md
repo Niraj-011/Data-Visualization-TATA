@@ -11,14 +11,23 @@
 ## 🚀output
   ## ❓question for ceo
 
-      1. Which region is generating the highest revenue, and which region is generating the lowest?
-      2. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
-      3. Which months generated the most revenue? Is there a seasonality in sales?
-      4. Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified
+  1. Which region is generating the highest revenue, and which region is generating the lowest?
+  2. What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+  3. Which months generated the most revenue? Is there a seasonality in sales?
+  4. Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified
 
  ## ❓question for cmo
 
-      1. What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
-      2. For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
-      3. What revenue is being generated from the customers who have ordered more than once?
-      4. Who are the customers that have repeated the most? How much are they contributing to revenue?
+   1. What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
+   2. For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
+   3. What revenue is being generated from the customers who have ordered more than once?
+   4. Who are the customers that have repeated the most? How much are they contributing to revenue?
+
+## 🎯Task 2
+  ## 1.The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the         seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+ ![output](iamges/question1.png)
+
+ ##T 2.The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to         have the United Kingdom in this visual.
+  ![output](iamges/question2.png)
+
+  ## 3.The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the        lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
